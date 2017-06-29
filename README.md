@@ -18,6 +18,6 @@ The Add and Delete operation cancel out the ABB symbol.
 IBM has 2 order totaling 2000 shares at price of 100.000 on Buy side
 
 Program note:
-Program is written in modern C++. C++ 11 or newer is need to compile this program.
+Program is written in modern C++. C++ 11 or newer is required to compile this program.
 The input file is assumed to be in the same directory as executable.
 The input file is assumed to be named "orderBookInput.txt".
