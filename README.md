@@ -8,7 +8,7 @@ IBM|A|B|123457|1000|100.0000
 IBM|A|B|123458|1000|100.0000
 
 Expected output would be:
-IBM|B|2000|2
+IBM|B|100|2000|2
 
 Explanation of output:
 The Add and Delete operation cancel out the ABB symbol.
