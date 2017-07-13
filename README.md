@@ -1,5 +1,5 @@
 The purpose of the program is to process open (limit) order book, giving a set of "A"dd and "D"elete operation. 
-This is done in a batch fashion.<br>
+This is done in a batch fashion.<p>
 The input is a flat file, pipe delimited.
 The output would be level-2 book with total size and order count at each price level.
 
